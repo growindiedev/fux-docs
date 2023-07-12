@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <strong>FUX</strong>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/bitbeckers/fux-dapp',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  // chat: {
+  //   link: 'https://discord.gg/ukAWuWHr',
+  // },
+  docsRepositoryBase: 'https://github.com/bitbeckers/fux-dapp',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'MIT 2023 © FUX',
   },
 }
 
