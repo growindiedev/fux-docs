@@ -1,15 +1,19 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Welcome to FUX",
+  "howToFUX": "Birds and the Bees",
+  "testing": "",
+  "glossary": "",
+  "questions": "",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/bitbeckers",
+    "newWindow": true
+  },
+  "Launch App": {
+    "title": "Launch App ↗",
+    "type": "page",
+    "href": "https://fux.gg",
     "newWindow": true
   }
 }
